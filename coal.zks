@@ -1,0 +1,10 @@
+coal0.bmp coal1.bmp 1
+MinDisparity 	25
+MaxDisparity 	46
+WinRadL0 	1
+WinRadRC 	2
+WinRadD 	1
+NumIterations 	0-15
+MaxScaler 	0.96
+USE_SAD 	1
+Output File coal
